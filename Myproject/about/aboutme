@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Aboutme
+	</title>
+</head>
+<body>
+
+<a href="C:/Users/User/Desktop/Веб/myproject/index.html"">
+	<H1>
+		Абсолютная ссылка на файл Index.html
+	</H1>
+</a>
+
+<a href="../index.html">
+	<H1>
+		Относительная ссылка на файл Index.html 
+	</H1>
+</a>
+
+</body>
+</html>
